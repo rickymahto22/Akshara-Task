@@ -1,0 +1,51 @@
+[
+  { "intent": "greeting", "text": "hi" },
+  { "intent": "greeting", "text": "hello" },
+  { "intent": "greeting", "text": "hey there" },
+  { "intent": "greeting", "text": "good morning" },
+  { "intent": "greeting", "text": "good evening" },
+
+  { "intent": "goodbye", "text": "bye" },
+  { "intent": "goodbye", "text": "see you later" },
+  { "intent": "goodbye", "text": "talk to you soon" },
+  { "intent": "goodbye", "text": "good night" },
+
+  { "intent": "thanks", "text": "thanks" },
+  { "intent": "thanks", "text": "thank you so much" },
+  { "intent": "thanks", "text": "that was helpful" },
+  { "intent": "thanks", "text": "appreciate your help" },
+
+  { "intent": "study_tips", "text": "how should I study for exams" },
+  { "intent": "study_tips", "text": "give me study tips" },
+  { "intent": "study_tips", "text": "how can I focus better while studying" },
+  { "intent": "study_tips", "text": "how do I avoid distractions during study" },
+  { "intent": "study_tips", "text": "what is the best way to revise before a test" },
+
+  { "intent": "time_management", "text": "how do I manage my time for studies" },
+  { "intent": "time_management", "text": "help me create a study schedule" },
+  { "intent": "time_management", "text": "how many hours should I study every day" },
+  { "intent": "time_management", "text": "how can I balance school and homework" },
+
+  { "intent": "exam_preparation", "text": "how do I prepare for my math exam" },
+  { "intent": "exam_preparation", "text": "what should I do one day before the exam" },
+  { "intent": "exam_preparation", "text": "how can I practice previous exam papers" },
+  { "intent": "exam_preparation", "text": "how to reduce mistakes in exams" },
+
+  { "intent": "subject_help_math", "text": "I am weak in algebra what should I do" },
+  { "intent": "subject_help_math", "text": "how can I improve my math basics" },
+  { "intent": "subject_help_math", "text": "tips to understand geometry better" },
+  { "intent": "subject_help_math", "text": "how to study calculus effectively" },
+
+  { "intent": "subject_help_science", "text": "how do I memorize biology terms" },
+  { "intent": "subject_help_science", "text": "tips to understand physics concepts" },
+  { "intent": "subject_help_science", "text": "how to score better in science" },
+
+  { "intent": "exam_anxiety", "text": "I feel very nervous before exams" },
+  { "intent": "exam_anxiety", "text": "how to deal with exam stress" },
+  { "intent": "exam_anxiety", "text": "I am afraid of failing what should I do" },
+  { "intent": "exam_anxiety", "text": "how can I stay calm during tests" },
+
+  { "intent": "motivation", "text": "I am losing motivation to study" },
+  { "intent": "motivation", "text": "how do I stay motivated for long study hours" },
+  { "intent": "motivation", "text": "I keep procrastinating my homework" }
+]

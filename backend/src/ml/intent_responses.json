@@ -1,0 +1,47 @@
+{
+  "greeting": [
+    "Hello! How can I help you with your studies today?",
+    "Hi there! What would you like to learn or ask about?"
+  ],
+  "goodbye": [
+    "Goodbye! Keep up the great work with your studies.",
+    "See you later, and good luck with your exams!"
+  ],
+  "thanks": [
+    "You're welcome! Let me know if you have more questions.",
+    "Happy to help. Keep practicing and you'll improve!"
+  ],
+  "study_tips": [
+    "Break your study time into short focused sessions, review regularly, and test yourself with small quizzes.",
+    "Use active recall and spaced repetition, and try to explain topics in your own words."
+  ],
+  "time_management": [
+    "Start by listing your tasks, estimate how long each will take, and create a simple daily timetable you can follow.",
+    "Prioritize important subjects first, study in focused blocks, and schedule short breaks to avoid burnout."
+  ],
+  "exam_preparation": [
+    "Review key concepts, solve past papers under timed conditions, and note the mistakes you make so you don't repeat them.",
+    "A day before the exam, focus on revising summaries and staying calm instead of learning everything from scratch."
+  ],
+  "subject_help_math": [
+    "Revisit the basics with simpler problems, then gradually move to harder ones. Practice a few questions every day.",
+    "Watch step-by-step explanations, try to solve examples on your own, and check solutions only after you attempt them."
+  ],
+  "subject_help_science": [
+    "For biology, create flashcards for key terms. For physics, practice problems and try to relate concepts to real life.",
+    "Draw diagrams and mind maps to connect ideas, and teach the topic to an imaginary student to test yourself."
+  ],
+  "exam_anxiety": [
+    "Try deep breathing, short walks, and preparing a realistic study plan so you feel more in control.",
+    "Focus on progress, not perfection. Good preparation plus rest usually reduces exam stress a lot."
+  ],
+  "motivation": [
+    "Set small daily goals, reward yourself when you complete them, and remind yourself why your studies matter to you.",
+    "Start with easy tasks to build momentum, and study with a friend or group if that keeps you accountable."
+  ],
+  "default": [
+    "I'm not sure I understood that. Could you rephrase your question about studies or exams?",
+    "I may not have an exact answer for that, but if you ask something related to study tips or exam help, I can try to assist."
+  ]
+}
+

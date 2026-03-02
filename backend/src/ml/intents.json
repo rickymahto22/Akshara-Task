@@ -1,0 +1,38 @@
+[
+  {
+    "tag": "greeting",
+    "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+    "responses": ["Hello! How can I help you today?", "Hi there! What would you like to know?"]
+  },
+  {
+    "tag": "goodbye",
+    "patterns": ["bye", "see you", "good night", "goodbye"],
+    "responses": ["Goodbye! Have a great day!", "See you later!"]
+  },
+  {
+    "tag": "thanks",
+    "patterns": ["thanks", "thank you", "that's helpful"],
+    "responses": ["You're welcome!", "Happy to help!"]
+  },
+  {
+    "tag": "study_tips",
+    "patterns": [
+      "how should I study",
+      "study tips",
+      "help me prepare for exams",
+      "how to focus on studies"
+    ],
+    "responses": [
+      "Break your study time into short focused sessions, review regularly, and practice past papers.",
+      "Create a simple schedule, remove distractions, and test yourself with small quizzes."
+    ]
+  },
+  {
+    "tag": "default",
+    "patterns": [],
+    "responses": [
+      "I'm not sure I understood that. Could you rephrase?",
+      "I don't have an exact answer, but I can try to help if you ask in another way."
+    ]
+  }
+]

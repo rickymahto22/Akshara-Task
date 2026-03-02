@@ -1,0 +1,28 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+
+# Cursor / editor
+.cursor/
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+
+# Env files (keep example)
+.env
+.env.*
+!.env.example
+
+# Backend generated artifacts
+backend/src/ml/model.json
+
