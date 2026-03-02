@@ -96,12 +96,4 @@ To **extend or retrain** the chatbot:
    - `npm run train`
 4. Restart the backend server (`npm run dev`) so it uses the updated `model.json`.
 
-## Screen recording (what to show)
 
-When you record the demo:
-
-- Show user registration and login.
-- Demonstrate a few conversations with the chatbot for different query types.
-- Show that conversation history is persisted and can be revisited.
-- Log in as an admin user and show the analytics (summary cards, messages per day, top intents).
-- Briefly show `backend/data/training_data.json`, run `npm run train`, and explain how preprocessing + TF‑IDF similarity work.
