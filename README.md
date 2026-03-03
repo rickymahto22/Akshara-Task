@@ -96,8 +96,8 @@ To **extend or retrain** the chatbot:
    - `npm run train`
 4. Restart the backend server (`npm run dev`) so it uses the updated `model.json`.
 
-## Screen recording (what to show)
 
+<<<<<<< HEAD
 When you record the demo:
 
 - Show user registration and login.
@@ -143,3 +143,5 @@ When you record the demo:
 - In Render: ensure `CORS_ORIGIN` matches your Vercel URL exactly.
 - Re-deploy backend after changing env vars.
 - Use the admin credentials from Render env vars to log in and access `/admin`.
+=======
+>>>>>>> 4d07f7178215997771430f832f485ac66837b708
